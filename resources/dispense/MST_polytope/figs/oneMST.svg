@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2026-02-25 00:29:37 -->
+<!-- Magnification: 1 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="880pt" height="337pt"
+	viewBox="435 5 14660 5608">
+<g fill="none">
+<!-- Line -->
+<polyline points=" 12075,3600 12075,2100"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 8475,3600 8475,2100"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 975,1200 975,4500"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 975,1200 4275,1200"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 3375,3600 4275,4500"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4275,4500 6075,4500"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6075,4500 9375,4500"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6975,3600 6975,2100"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6075,1200 9375,1200"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 9375,1200 11175,1200"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 1875,3600 3375,3600"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6975,2100 8475,2100"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6075,1200 6975,2100"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 8475,2100 9375,1200"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 9375,4500 8475,3600"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 6075,4500 6975,3600"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 11175,1200 12075,2100"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 9375,4500 9375,1200"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 3375,2100 3375,3600"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 975,4500 4275,4500"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 975,4500 1875,3600"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 975,1200 1875,2100"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 6075,4500 6075,1200"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 11100,4500 12075,3600"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 12075,3600 13575,3600"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 13575,3600 14475,4500"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 11175,1200 11175,4500"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 4275,1200 4275,4500"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4275,1200 3375,2100"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 9375,4500 11175,4500"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 1875,2100 3375,2100"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 11175,1200 14475,1200"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6975,3600 8475,3600"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 1875,2175 1875,3675"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 12075,2100 13575,2100"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 13575,3675 13575,2175"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 14475,4575 14475,1275"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 11175,4500 14475,4500"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 14437,1237 13537,2137"
+	stroke="#000000" stroke-width="90px"/>
+<!-- Line -->
+<polyline points=" 975,1200 976,1199 980,1195 986,1189 996,1180 1010,1167 1028,1150 1050,1129 1077,1104
+ 1108,1075 1142,1044 1179,1010 1218,974 1259,937 1300,900 1342,862 1384,825 1426,789
+ 1467,754 1506,721 1545,689 1582,658 1619,630 1654,603 1688,577 1721,553 1753,530
+ 1785,509 1817,489 1848,469 1880,451 1911,433 1943,416 1975,400 1997,389 2020,378
+ 2042,368 2066,358 2090,347 2114,337 2139,327 2166,317 2193,308 2221,298 2250,289
+ 2280,279 2311,270 2344,261 2377,252 2413,243 2449,235 2487,226 2527,218 2567,209
+ 2610,201 2654,193 2699,186 2746,178 2795,171 2845,164 2897,157 2950,150 3004,143
+ 3061,137 3118,131 3178,125 3238,119 3300,113 3364,108 3429,103 3495,98 3563,93
+ 3633,89 3703,84 3776,80 3849,76 3924,72 4001,69 4080,65 4160,62 4242,59 4326,56
+ 4412,53 4500,50 4559,48 4620,46 4681,45 4744,43 4808,42 4872,40 4938,38 5006,37
+ 5074,36 5144,34 5215,33 5287,32 5360,30 5434,29 5510,28 5586,27 5664,26 5743,25
+ 5823,24 5904,23 5986,22 6070,21 6154,21 6238,20 6324,19 6411,19 6498,18 6586,18
+ 6675,18 6764,17 6854,17 6944,17 7035,17 7126,17 7217,17 7308,17 7400,17 7491,17
+ 7583,18 7674,18 7765,18 7856,19 7947,20 8037,20 8127,21 8216,22 8305,23 8393,23
+ 8480,24 8567,26 8653,27 8738,28 8822,29 8905,30 8987,32 9068,33 9147,35 9226,36
+ 9304,38 9380,40 9456,41 9530,43 9602,45 9674,47 9744,49 9814,51 9881,53 9948,55
+ 10013,58 10078,60 10141,62 10202,65 10263,67 10322,70 10380,72 10438,75 10529,80
+ 10619,84 10705,89 10789,95 10871,100 10951,106 11029,112 11104,118 11178,124
+ 11249,131 11319,137 11387,145 11453,152 11517,160 11580,167 11640,175 11698,184
+ 11755,192 11810,201 11862,210 11913,219 11962,228 12009,237 12054,247 12097,256
+ 12138,266 12178,276 12215,285 12251,295 12285,305 12317,315 12348,325 12377,335
+ 12404,345 12431,355 12455,365 12479,375 12501,385 12523,394 12543,404 12562,414
+ 12581,424 12599,433 12616,443 12633,453 12650,463 12677,479 12703,495 12729,511
+ 12754,528 12779,546 12804,564 12829,582 12853,601 12878,621 12901,641 12925,662
+ 12948,684 12971,706 12993,728 13015,751 13036,774 13057,798 13077,822 13096,847
+ 13114,871 13132,896 13149,921 13165,946 13180,971 13195,996 13210,1022 13224,1048
+ 13238,1075 13249,1099 13261,1123 13272,1149 13284,1175 13295,1203 13306,1232
+ 13318,1262 13330,1294 13342,1328 13354,1365 13367,1403 13381,1444 13394,1486
+ 13408,1531 13423,1578 13438,1627 13453,1677 13468,1727 13483,1778 13497,1827
+ 13511,1874 13524,1919 13535,1960 13546,1996 13554,2026 13561,2051 13567,2070
+ 13571,2084 13573,2093 13574,2098 13575,2100"
+	stroke="#000000" stroke-width="8px" stroke-linejoin="bevel"/>
+<!-- Line -->
+<polyline points=" 900,4500 901,4503 903,4508 908,4519 914,4534 923,4554 933,4579 946,4607 960,4637
+ 975,4669 991,4700 1008,4731 1024,4761 1041,4789 1058,4816 1076,4841 1094,4865
+ 1112,4888 1132,4910 1153,4932 1176,4953 1200,4975 1215,4988 1230,5001 1246,5014
+ 1263,5027 1281,5040 1300,5053 1320,5067 1342,5081 1364,5095 1388,5109 1413,5124
+ 1440,5138 1468,5153 1497,5167 1528,5182 1560,5196 1594,5211 1630,5225 1667,5240
+ 1705,5254 1745,5268 1786,5281 1829,5295 1873,5308 1918,5321 1964,5333 2011,5345
+ 2060,5357 2110,5368 2161,5379 2213,5389 2266,5399 2320,5409 2376,5418 2433,5427
+ 2491,5435 2551,5443 2613,5450 2657,5455 2702,5460 2749,5464 2796,5469 2845,5473
+ 2894,5478 2945,5482 2997,5485 3050,5489 3104,5493 3160,5496 3216,5500 3273,5503
+ 3332,5506 3391,5509 3452,5512 3513,5514 3575,5517 3638,5519 3702,5521 3766,5523
+ 3831,5525 3896,5527 3961,5529 4027,5530 4093,5531 4159,5533 4225,5534 4291,5535
+ 4357,5536 4422,5536 4487,5537 4551,5537 4615,5538 4678,5538 4741,5538 4802,5538
+ 4863,5538 4923,5538 4982,5537 5040,5537 5096,5536 5152,5536 5206,5535 5260,5534
+ 5312,5534 5363,5533 5412,5532 5461,5531 5509,5530 5555,5529 5600,5527 5644,5526
+ 5688,5525 5744,5523 5799,5521 5853,5519 5906,5517 5957,5515 6007,5513 6056,5510
+ 6105,5507 6153,5504 6200,5501 6246,5498 6291,5494 6336,5490 6381,5486 6424,5481
+ 6467,5476 6510,5471 6552,5466 6593,5460 6633,5454 6673,5448 6713,5441 6752,5435
+ 6790,5427 6828,5420 6865,5412 6902,5404 6938,5396 6974,5387 7010,5379 7045,5370
+ 7080,5360 7115,5351 7150,5341 7184,5331 7219,5320 7254,5309 7290,5298 7326,5287
+ 7363,5275 7395,5264 7428,5253 7462,5242 7497,5230 7533,5218 7570,5205 7608,5192
+ 7648,5178 7689,5163 7732,5148 7776,5132 7823,5115 7872,5097 7922,5078 7975,5059
+ 8030,5038 8088,5017 8148,4995 8210,4972 8274,4948 8340,4923 8408,4897 8478,4871
+ 8549,4844 8620,4817 8692,4789 8764,4762 8836,4735 8905,4708 8973,4682 9038,4658
+ 9100,4634 9157,4612 9210,4592 9258,4574 9301,4557 9337,4543 9368,4531 9394,4522
+ 9413,4514 9428,4508 9439,4504 9445,4502 9448,4501 9450,4500"
+	stroke="#000000" stroke-width="90px" stroke-linejoin="bevel"/>
+<!-- Text -->
+<text xml:space="preserve" x="14850" y="1200" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">t</text>
+<!-- Text -->
+<text xml:space="preserve" x="525" y="1200" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">s</text>
+<!-- Text -->
+<text xml:space="preserve" x="525" y="4575" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">a</text>
+<!-- Text -->
+<text xml:space="preserve" x="4350" y="4950" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">b</text>
+<!-- Text -->
+<text xml:space="preserve" x="1500" y="2475" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">c</text>
+<!-- Text -->
+<text xml:space="preserve" x="1500" y="3675" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">e</text>
+<!-- Text -->
+<text xml:space="preserve" x="6675" y="3525" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">i</text>
+<!-- Text -->
+<text xml:space="preserve" x="11700" y="2400" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">x</text>
+<!-- Text -->
+<text xml:space="preserve" x="13725" y="2325" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">y</text>
+<!-- Text -->
+<text xml:space="preserve" x="13350" y="3975" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">z</text>
+<!-- Text -->
+<text xml:space="preserve" x="14400" y="5025" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">r</text>
+<!-- Text -->
+<text xml:space="preserve" x="5925" y="4950" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">m</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="2475" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">k</text>
+<!-- Text -->
+<text xml:space="preserve" x="3525" y="3675" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">d</text>
+<!-- Text -->
+<text xml:space="preserve" x="3600" y="2250" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">g</text>
+<!-- Text -->
+<text xml:space="preserve" x="4425" y="1575" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">f</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="3600" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">h</text>
+<!-- Text -->
+<text xml:space="preserve" x="5700" y="1125" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">p</text>
+<!-- Text -->
+<text xml:space="preserve" x="11100" y="4950" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">u</text>
+<!-- Text -->
+<text xml:space="preserve" x="11625" y="3525" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">v</text>
+<!-- Text -->
+<text xml:space="preserve" x="6600" y="2400" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">j</text>
+<!-- Text -->
+<text xml:space="preserve" x="10800" y="1575" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">q</text>
+<!-- Text -->
+<text xml:space="preserve" x="9525" y="1575" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">o</text>
+<!-- Text -->
+<text xml:space="preserve" x="9300" y="4950" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="384" text-anchor="start">n</text>
+<!-- Circle -->
+<defs>
+<circle cx="975" cy="1200" r="75" id="p0"/>
+<pattern id="tile0" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p0" fill="#000000"/>
+<use xlink:href="#p0" fill="url(#tile0)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="1875" cy="3600" r="75" id="p1"/>
+<pattern id="tile1" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p1" fill="#000000"/>
+<use xlink:href="#p1" fill="url(#tile1)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="1875" cy="2100" r="75" id="p2"/>
+<pattern id="tile2" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p2" fill="#000000"/>
+<use xlink:href="#p2" fill="url(#tile2)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="3375" cy="2100" r="75" id="p3"/>
+<pattern id="tile3" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p3" fill="#000000"/>
+<use xlink:href="#p3" fill="url(#tile3)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="3375" cy="3600" r="75" id="p4"/>
+<pattern id="tile4" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p4" fill="#000000"/>
+<use xlink:href="#p4" fill="url(#tile4)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="975" cy="4500" r="75" id="p5"/>
+<pattern id="tile5" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p5" fill="#000000"/>
+<use xlink:href="#p5" fill="url(#tile5)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="4275" cy="1200" r="75" id="p6"/>
+<pattern id="tile6" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p6" fill="#000000"/>
+<use xlink:href="#p6" fill="url(#tile6)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="4275" cy="4500" r="75" id="p7"/>
+<pattern id="tile7" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p7" fill="#000000"/>
+<use xlink:href="#p7" fill="url(#tile7)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="11175" cy="1200" r="75" id="p8"/>
+<pattern id="tile8" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p8" fill="#000000"/>
+<use xlink:href="#p8" fill="url(#tile8)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="12075" cy="3600" r="75" id="p9"/>
+<pattern id="tile9" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p9" fill="#000000"/>
+<use xlink:href="#p9" fill="url(#tile9)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="12075" cy="2100" r="75" id="p10"/>
+<pattern id="tile10" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p10" fill="#000000"/>
+<use xlink:href="#p10" fill="url(#tile10)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="13575" cy="2100" r="75" id="p11"/>
+<pattern id="tile11" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p11" fill="#000000"/>
+<use xlink:href="#p11" fill="url(#tile11)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="13575" cy="3600" r="75" id="p12"/>
+<pattern id="tile12" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p12" fill="#000000"/>
+<use xlink:href="#p12" fill="url(#tile12)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="11175" cy="4500" r="75" id="p13"/>
+<pattern id="tile13" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p13" fill="#000000"/>
+<use xlink:href="#p13" fill="url(#tile13)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="14475" cy="1200" r="75" id="p14"/>
+<pattern id="tile14" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p14" fill="#000000"/>
+<use xlink:href="#p14" fill="url(#tile14)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="14475" cy="4500" r="75" id="p15"/>
+<pattern id="tile15" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p15" fill="#000000"/>
+<use xlink:href="#p15" fill="url(#tile15)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="6075" cy="1200" r="75" id="p16"/>
+<pattern id="tile16" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p16" fill="#000000"/>
+<use xlink:href="#p16" fill="url(#tile16)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="6975" cy="3600" r="75" id="p17"/>
+<pattern id="tile17" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p17" fill="#000000"/>
+<use xlink:href="#p17" fill="url(#tile17)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="6975" cy="2100" r="75" id="p18"/>
+<pattern id="tile18" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p18" fill="#000000"/>
+<use xlink:href="#p18" fill="url(#tile18)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="8475" cy="2100" r="75" id="p19"/>
+<pattern id="tile19" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p19" fill="#000000"/>
+<use xlink:href="#p19" fill="url(#tile19)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="8475" cy="3600" r="75" id="p20"/>
+<pattern id="tile20" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p20" fill="#000000"/>
+<use xlink:href="#p20" fill="url(#tile20)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="6075" cy="4500" r="75" id="p21"/>
+<pattern id="tile21" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p21" fill="#000000"/>
+<use xlink:href="#p21" fill="url(#tile21)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="9375" cy="4500" r="75" id="p22"/>
+<pattern id="tile22" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p22" fill="#000000"/>
+<use xlink:href="#p22" fill="url(#tile22)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Circle -->
+<defs>
+<circle cx="9375" cy="1200" r="75" id="p23"/>
+<pattern id="tile23" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p23" fill="#000000"/>
+<use xlink:href="#p23" fill="url(#tile23)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Text -->
+<text xml:space="preserve" x="1500" y="4350" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">5</text>
+<!-- Text -->
+<text xml:space="preserve" x="8550" y="1725" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">3</text>
+<!-- Text -->
+<text xml:space="preserve" x="8550" y="3075" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">6</text>
+<!-- Text -->
+<text xml:space="preserve" x="8925" y="4050" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">3</text>
+<!-- Text -->
+<text xml:space="preserve" x="1650" y="1800" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">5</text>
+<!-- Text -->
+<text xml:space="preserve" x="3450" y="2925" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">4</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="3000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">5</text>
+<!-- Text -->
+<text xml:space="preserve" x="11775" y="1725" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">3</text>
+<!-- Text -->
+<text xml:space="preserve" x="11700" y="4350" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">5</text>
+<!-- Text -->
+<text xml:space="preserve" x="450" y="3000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">15</text>
+<!-- Text -->
+<text xml:space="preserve" x="5775" y="2925" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">5</text>
+<!-- Text -->
+<text xml:space="preserve" x="2625" y="2475" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">6</text>
+<!-- Text -->
+<text xml:space="preserve" x="2625" y="3975" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">6</text>
+<!-- Text -->
+<text xml:space="preserve" x="7800" y="2025" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">6</text>
+<!-- Text -->
+<text xml:space="preserve" x="12900" y="3450" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">5</text>
+<!-- Text -->
+<text xml:space="preserve" x="12975" y="4875" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">7</text>
+<!-- Text -->
+<text xml:space="preserve" x="9450" y="3075" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">4</text>
+<!-- Text -->
+<text xml:space="preserve" x="14100" y="4050" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">5</text>
+<!-- Text -->
+<text xml:space="preserve" x="6675" y="2925" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">6</text>
+<!-- Text -->
+<text xml:space="preserve" x="7650" y="3975" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">6</text>
+<!-- Text -->
+<text xml:space="preserve" x="7800" y="1125" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">6</text>
+<!-- Text -->
+<text xml:space="preserve" x="9900" y="4875" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">6</text>
+<!-- Text -->
+<text xml:space="preserve" x="4350" y="2925" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">9</text>
+<!-- Text -->
+<text xml:space="preserve" x="10125" y="1050" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">8</text>
+<!-- Text -->
+<text xml:space="preserve" x="10875" y="2925" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">8</text>
+<!-- Text -->
+<text xml:space="preserve" x="12150" y="2925" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">8</text>
+<!-- Text -->
+<text xml:space="preserve" x="14550" y="2775" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">8</text>
+<!-- Text -->
+<text xml:space="preserve" x="2550" y="1125" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">9</text>
+<!-- Text -->
+<text xml:space="preserve" x="3450" y="4200" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">8</text>
+<!-- Text -->
+<text xml:space="preserve" x="14100" y="1950" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">5</text>
+<!-- Text -->
+<text xml:space="preserve" x="14025" y="1050" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">9</text>
+<!-- Text -->
+<text xml:space="preserve" x="3600" y="450" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">8</text>
+<!-- Text -->
+<text xml:space="preserve" x="3375" y="1725" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">5</text>
+<!-- Text -->
+<text xml:space="preserve" x="13650" y="3000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">9</text>
+<!-- Text -->
+<text xml:space="preserve" x="12675" y="2025" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">2</text>
+<!-- Text -->
+<text xml:space="preserve" x="6675" y="1725" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">2</text>
+<!-- Text -->
+<text xml:space="preserve" x="6750" y="4200" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">2</text>
+<!-- Text -->
+<text xml:space="preserve" x="2325" y="4950" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">6</text>
+<!-- Text -->
+<text xml:space="preserve" x="5325" y="4425" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">9</text>
+<!-- Text -->
+<text xml:space="preserve" x="7800" y="4875" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">7</text>
+<!-- Text -->
+<text xml:space="preserve" x="4650" y="5400" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="312" text-anchor="start">4</text>
+</g>
+</svg>

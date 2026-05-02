@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2026-05-01 21:57:23 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="239pt" height="330pt"
+	viewBox="3495 1207 3782 5236">
+<g fill="none">
+<!-- Circle -->
+<defs>
+<circle cx="5400" cy="1350" r="135" id="p0"/>
+<pattern id="tile0" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p0" fill="#000000"/>
+<use xlink:href="#p0" fill="url(#tile0)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<defs>
+<circle cx="4500" cy="2700" r="135" id="p1"/>
+<pattern id="tile1" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p1" fill="#000000"/>
+<use xlink:href="#p1" fill="url(#tile1)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<defs>
+<circle cx="6300" cy="2700" r="135" id="p2"/>
+<pattern id="tile2" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p2" fill="#000000"/>
+<use xlink:href="#p2" fill="url(#tile2)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<defs>
+<circle cx="5400" cy="4500" r="135" id="p3"/>
+<pattern id="tile3" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p3" fill="#000000"/>
+<use xlink:href="#p3" fill="url(#tile3)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<defs>
+<circle cx="5400" cy="6300" r="135" id="p4"/>
+<pattern id="tile4" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p4" fill="#000000"/>
+<use xlink:href="#p4" fill="url(#tile4)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<defs>
+<circle cx="4050" cy="5400" r="135" id="p5"/>
+<pattern id="tile5" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p5" fill="#000000"/>
+<use xlink:href="#p5" fill="url(#tile5)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<defs>
+<circle cx="6750" cy="5400" r="135" id="p6"/>
+<pattern id="tile6" patternUnits="userSpaceOnUse"
+	x="0" y="0" width="134" height="67">
+<g stroke-width="7.5" stroke="#000000" fill="none">
+<path d="M -7,30 73,70 M 61,-3 141,37"/>
+</g>
+</pattern>
+</defs>
+<use xlink:href="#p6" fill="#000000"/>
+<use xlink:href="#p6" fill="url(#tile6)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 4050,5400 5400,4500"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 5400,4500 6750,5400"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6750,5400 5400,6300"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 5400,6300 4050,5400"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4050,5400 4500,2700"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4500,2700 5400,1350"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 5400,1350 6300,2700"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6300,2700 4500,2700"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6300,2700 6750,5400"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Text -->
+<text xml:space="preserve" x="5940" y="1980" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="336" text-anchor="start">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="4590" y="2025" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="336" text-anchor="start">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="5220" y="3195" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="336" text-anchor="start">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="3510" y="4095" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="336" text-anchor="start">1/2</text>
+<!-- Text -->
+<text xml:space="preserve" x="6570" y="4050" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="336" text-anchor="start">1/2</text>
+<!-- Text -->
+<text xml:space="preserve" x="4320" y="4770" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="336" text-anchor="start">1/2</text>
+<!-- Text -->
+<text xml:space="preserve" x="5805" y="4725" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="336" text-anchor="start">1/2</text>
+<!-- Text -->
+<text xml:space="preserve" x="6075" y="6210" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="336" text-anchor="start">1/2</text>
+<!-- Text -->
+<text xml:space="preserve" x="4095" y="6255" fill="#000000" font-family="New Century Schoolbook" font-style="italic" font-weight="bold" font-size="336" text-anchor="start">1/2</text>
+</g>
+</svg>
