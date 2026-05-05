@@ -1,6 +1,6 @@
 # renditions
 #*.pdf
-
+.venv/
 # backups
 *~
 *.bak

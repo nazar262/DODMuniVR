@@ -1,0 +1,44 @@
+
+Subtask 1 (3 testcases):
+Case #001 [esempi_testo - hardcoded]: AC (0.102/1.000 secs) All Correct (got 0/0 points)
+Case #002 [esempi_testo - hardcoded]: AC (0.096/1.000 secs) All Correct (got 0/0 points)
+Case #003 [esempi_testo - hardcoded]: AC (0.111/1.000 secs) All Correct (got 0/0 points)
+
+Subtask 2 (10 testcases):
+Case #004 [small(seed=867573)]: PAC (0.105/1.000 secs) Partially Correct (2/3 points)
+Case #005 [small(seed=635105)]: PAC (0.097/1.000 secs) Partially Correct (2/3 points)
+Case #006 [small(seed=942931)]: PAC (0.112/1.000 secs) Partially Correct (2/3 points)
+Case #007 [small(seed=278139)]: PAC (0.098/1.000 secs) Partially Correct (2/3 points)
+Case #008 [small(seed=830774)]: AC (0.100/1.000 secs) All Correct (got 3/3 points)
+Case #009 [small(seed=417456)]: PAC (0.095/1.000 secs) Partially Correct (2/3 points)
+Case #010 [small(seed=904024)]: AC (0.102/1.000 secs) All Correct (got 3/3 points)
+Case #011 [small(seed=672109)]: AC (0.096/1.000 secs) All Correct (got 3/3 points)
+Case #012 [small(seed=117419)]: PAC (0.119/1.000 secs) Partially Correct (2/3 points)
+Case #013 [small(seed=939742)]: PAC (0.100/1.000 secs) Partially Correct (2/3 points)
+
+Subtask 3 (10 testcases):
+Case #014 [medium(seed=653457)]: PAC (0.096/1.000 secs) Partially Correct (2/3 points)
+Case #015 [medium(seed=631455)]: PAC (0.437/1.000 secs) Partially Correct (2/3 points)
+Case #016 [medium(seed=881275)]: PAC (0.091/1.000 secs) Partially Correct (2/3 points)
+Case #017 [medium(seed=282790)]: PAC (0.116/1.000 secs) Partially Correct (2/3 points)
+Case #018 [medium(seed=630259)]: PAC (0.141/1.000 secs) Partially Correct (2/3 points)
+Case #019 [medium(seed=754435)]: PAC (0.186/1.000 secs) Partially Correct (2/3 points)
+Case #020 [medium(seed=363196)]: PAC (0.050/1.000 secs) Partially Correct (2/3 points)
+Case #021 [medium(seed=657701)]: PAC (0.072/1.000 secs) Partially Correct (2/3 points)
+Case #022 [medium(seed=469478)]: PAC (0.145/1.000 secs) Partially Correct (2/3 points)
+Case #023 [medium(seed=447162)]: PAC (0.074/1.000 secs) Partially Correct (2/3 points)
+
+Subtask 4 (10 testcases):
+Case #024 [big(seed=287876)]: PAC (0.115/1.000 secs) Partially Correct (2/3 points)
+Case #025 [big(seed=783838)]: PAC (0.059/1.000 secs) Partially Correct (2/3 points)
+Case #026 [big(seed=330138)]: PAC (0.050/1.000 secs) Partially Correct (2/3 points)
+Case #027 [big(seed=261294)]: PAC (0.051/1.000 secs) Partially Correct (2/3 points)
+Case #028 [big(seed=856881)]: PAC (0.052/1.000 secs) Partially Correct (2/3 points)
+Case #029 [big(seed=909516)]: PAC (0.172/1.000 secs) Partially Correct (2/3 points)
+Case #030 [big(seed=716384)]: PAC (0.061/1.000 secs) Partially Correct (2/3 points)
+Case #031 [big(seed=267326)]: PAC (0.091/1.000 secs) Partially Correct (2/3 points)
+Case #032 [big(seed=253181)]: PAC (0.092/1.000 secs) Partially Correct (2/3 points)
+Case #033 [big(seed=802341)]: PAC (0.096/1.000 secs) Partially Correct (2/3 points)
+
+
+Score: 63/90 points

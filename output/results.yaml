@@ -1,0 +1,259 @@
+global_seed: 981808
+Subtasks:
+- 1:
+    subtask name: esempi_testo
+    time limit: 1
+    scoring type: &id001
+    - boolean
+    - boolean
+    - boolean
+    num testcases: 3
+    testcases:
+    - testcase num 1:
+        origin: hardcoded
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.08752036094665527
+    - testcase num 2:
+        origin: hardcoded
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.11823463439941406
+    - testcase num 3:
+        origin: hardcoded
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.07661819458007812
+- 2:
+    subtask name: small
+    time limit: 1
+    scoring type: *id001
+    num testcases: 10
+    testcases:
+    - testcase num 4:
+        origin: randomly generated
+        instance_seed: 354029
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.08587813377380371
+    - testcase num 5:
+        origin: randomly generated
+        instance_seed: 226309
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.06696438789367676
+    - testcase num 6:
+        origin: randomly generated
+        instance_seed: 972120
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.10389065742492676
+    - testcase num 7:
+        origin: randomly generated
+        instance_seed: 184491
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.07992410659790039
+    - testcase num 8:
+        origin: randomly generated
+        instance_seed: 600257
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.1006937026977539
+    - testcase num 9:
+        origin: randomly generated
+        instance_seed: 981078
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.16820144653320312
+    - testcase num 10:
+        origin: randomly generated
+        instance_seed: 931987
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.09284496307373047
+    - testcase num 11:
+        origin: randomly generated
+        instance_seed: 323787
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.06697320938110352
+    - testcase num 12:
+        origin: randomly generated
+        instance_seed: 324828
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.06860113143920898
+    - testcase num 13:
+        origin: randomly generated
+        instance_seed: 543970
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.12151145935058594
+- 3:
+    subtask name: medium
+    time limit: 1
+    scoring type: *id001
+    num testcases: 10
+    testcases:
+    - testcase num 14:
+        origin: randomly generated
+        instance_seed: 447850
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.1422278881072998
+    - testcase num 15:
+        origin: randomly generated
+        instance_seed: 546726
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.09466147422790527
+    - testcase num 16:
+        origin: randomly generated
+        instance_seed: 910437
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.09838128089904785
+    - testcase num 17:
+        origin: randomly generated
+        instance_seed: 126124
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.09185481071472168
+    - testcase num 18:
+        origin: randomly generated
+        instance_seed: 743404
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.09155774116516113
+    - testcase num 19:
+        origin: randomly generated
+        instance_seed: 803458
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.08369588851928711
+    - testcase num 20:
+        origin: randomly generated
+        instance_seed: 580386
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.09929084777832031
+    - testcase num 21:
+        origin: randomly generated
+        instance_seed: 253993
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.10088205337524414
+    - testcase num 22:
+        origin: randomly generated
+        instance_seed: 375167
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.08583831787109375
+    - testcase num 23:
+        origin: randomly generated
+        instance_seed: 752179
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.10472583770751953
+- 4:
+    subtask name: big
+    time limit: 1
+    scoring type: *id001
+    num testcases: 10
+    testcases:
+    - testcase num 24:
+        origin: randomly generated
+        instance_seed: 971267
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.08924007415771484
+    - testcase num 25:
+        origin: randomly generated
+        instance_seed: 722500
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.1167759895324707
+    - testcase num 26:
+        origin: randomly generated
+        instance_seed: 623017
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.1186823844909668
+    - testcase num 27:
+        origin: randomly generated
+        instance_seed: 902001
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.18047595024108887
+    - testcase num 28:
+        origin: randomly generated
+        instance_seed: 692806
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.08391451835632324
+    - testcase num 29:
+        origin: randomly generated
+        instance_seed: 845723
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.1125640869140625
+    - testcase num 30:
+        origin: randomly generated
+        instance_seed: 737361
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.10664057731628418
+    - testcase num 31:
+        origin: randomly generated
+        instance_seed: 929952
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.10370421409606934
+    - testcase num 32:
+        origin: randomly generated
+        instance_seed: 313321
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.1002967357635498
+    - testcase num 33:
+        origin: randomly generated
+        instance_seed: 691235
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.12162542343139648
+total_got_points: 90
+total_max_points: 90

@@ -1,0 +1,448 @@
+global_seed: 250613
+Subtasks:
+- 1:
+    subtask name: esempi_testo
+    time limit: 1
+    scoring type: &id001
+    - boolean
+    - boolean
+    - boolean
+    num testcases: 3
+    testcases:
+    - testcase num 1:
+        origin: hardcoded
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.10185503959655762
+    - testcase num 2:
+        origin: hardcoded
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.09590268135070801
+    - testcase num 3:
+        origin: hardcoded
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.11091256141662598
+- 2:
+    subtask name: small
+    time limit: 1
+    scoring type: *id001
+    num testcases: 10
+    testcases:
+    - testcase num 4:
+        origin: randomly generated
+        instance_seed: 867573
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=14 while the correct value was corr_rank=15.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.10484099388122559
+    - testcase num 5:
+        origin: randomly generated
+        instance_seed: 635105
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=30 while the correct value was corr_rank=38.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.09688472747802734
+    - testcase num 6:
+        origin: randomly generated
+        instance_seed: 942931
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=16 while the correct value was corr_rank=25.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.11187028884887695
+    - testcase num 7:
+        origin: randomly generated
+        instance_seed: 278139
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=10 while the correct value was corr_rank=23.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.09789705276489258
+    - testcase num 8:
+        origin: randomly generated
+        instance_seed: 830774
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.09990739822387695
+    - testcase num 9:
+        origin: randomly generated
+        instance_seed: 417456
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=10 while the correct value was corr_rank=23.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.09495997428894043
+    - testcase num 10:
+        origin: randomly generated
+        instance_seed: 904024
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.10182571411132812
+    - testcase num 11:
+        origin: randomly generated
+        instance_seed: 672109
+        goal count_opts: achieved
+        goal rank: achieved
+        goal unrank: achieved
+        delay: 0.09624481201171875
+    - testcase num 12:
+        origin: randomly generated
+        instance_seed: 117419
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=18 while the correct value was corr_rank=27.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.11856222152709961
+    - testcase num 13:
+        origin: randomly generated
+        instance_seed: 939742
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=12 while the correct value was corr_rank=14.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.0999147891998291
+- 3:
+    subtask name: medium
+    time limit: 1
+    scoring type: *id001
+    num testcases: 10
+    testcases:
+    - testcase num 14:
+        origin: randomly generated
+        instance_seed: 653457
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=693 while the correct value was corr_rank=847.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.09572148323059082
+    - testcase num 15:
+        origin: randomly generated
+        instance_seed: 631455
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=1361515 while the correct value was corr_rank=1461135.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.43734049797058105
+    - testcase num 16:
+        origin: randomly generated
+        instance_seed: 881275
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=108644 while the correct value was corr_rank=118786.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.09057879447937012
+    - testcase num 17:
+        origin: randomly generated
+        instance_seed: 282790
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=814719 while the correct value was corr_rank=939781.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.11551880836486816
+    - testcase num 18:
+        origin: randomly generated
+        instance_seed: 630259
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=3700 while the correct value was corr_rank=10310.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.14086103439331055
+    - testcase num 19:
+        origin: randomly generated
+        instance_seed: 754435
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=16802849 while the correct value was corr_rank=22392772.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.18619728088378906
+    - testcase num 20:
+        origin: randomly generated
+        instance_seed: 363196
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=30408 while the correct value was corr_rank=39929.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.04966855049133301
+    - testcase num 21:
+        origin: randomly generated
+        instance_seed: 657701
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=2958986 while the correct value was corr_rank=3681942.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.07246971130371094
+    - testcase num 22:
+        origin: randomly generated
+        instance_seed: 469478
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=21910556 while the correct value was corr_rank=22533382.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.1449260711669922
+    - testcase num 23:
+        origin: randomly generated
+        instance_seed: 447162
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=3099517 while the correct value was corr_rank=3114819.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.07447552680969238
+- 4:
+    subtask name: big
+    time limit: 1
+    scoring type: *id001
+    num testcases: 10
+    testcases:
+    - testcase num 24:
+        origin: randomly generated
+        instance_seed: 287876
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=156108232 while the correct value was corr_rank=158211702.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.1148831844329834
+    - testcase num 25:
+        origin: randomly generated
+        instance_seed: 783838
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=62043693 while the correct value was corr_rank=62059493.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.05933976173400879
+    - testcase num 26:
+        origin: randomly generated
+        instance_seed: 330138
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=112188175 while the correct value was corr_rank=114243606.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.05022716522216797
+    - testcase num 27:
+        origin: randomly generated
+        instance_seed: 261294
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=485601059 while the correct value was corr_rank=486388474.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.051096439361572266
+    - testcase num 28:
+        origin: randomly generated
+        instance_seed: 856881
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=36026409 while the correct value was corr_rank=36050465.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.05203866958618164
+    - testcase num 29:
+        origin: randomly generated
+        instance_seed: 909516
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=90903946 while the correct value was corr_rank=92566639.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.1720271110534668
+    - testcase num 30:
+        origin: randomly generated
+        instance_seed: 716384
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=381349930 while the correct value was corr_rank=382964320.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.060648441314697266
+    - testcase num 31:
+        origin: randomly generated
+        instance_seed: 267326
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=225760502 while the correct value was corr_rank=226749502.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.09071826934814453
+    - testcase num 32:
+        origin: randomly generated
+        instance_seed: 253181
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=120382786 while the correct value was corr_rank=122986101.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.09245562553405762
+    - testcase num 33:
+        origin: randomly generated
+        instance_seed: 802341
+        goal count_opts: achieved
+        goal rank: failed
+        feedback on goal rank: "Wrong value for the rank of the assignment A received
+          in input: you answered risp_rank=98151867 while the correct value was corr_rank=98301505.
+          Through rtal you can dowload the files with the correct answers and those
+          with the corresponding instances. Be told of the command:\n   `rtal connect
+          <problem_name> synopsis`\n which reveals and explains all available services
+          and arguments for a given problem. Read the two text files `README_rtal.md`
+          and `README_synopsis.md`"
+        goal unrank: achieved
+        delay: 0.09646487236022949
+total_got_points: 63
+total_max_points: 90

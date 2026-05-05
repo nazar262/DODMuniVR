@@ -1,0 +1,36 @@
+
+Subtask 1 (3 testcases):
+Case #001 [esempi_testo - hardcoded]: AC (0.118/1.000 secs) All Correct (got 0/0 points)
+Case #002 [esempi_testo - hardcoded]: AC (0.023/1.000 secs) All Correct (got 0/0 points)
+Case #003 [esempi_testo - hardcoded]: AC (0.017/1.000 secs) All Correct (got 0/0 points)
+
+Subtask 2 (3 testcases):
+Case #004 [small(seed=428938)]: AC (0.009/1.000 secs) All Correct (got 4/4 points)
+Case #005 [small(seed=862540)]: AC (0.009/1.000 secs) All Correct (got 4/4 points)
+Case #006 [small(seed=536604)]: AC (0.004/1.000 secs) All Correct (got 4/4 points)
+
+Subtask 3 (3 testcases):
+Case #007 [medium(seed=417952)]: AC (0.007/1.000 secs) All Correct (got 4/4 points)
+Case #008 [medium(seed=844432)]: AC (0.003/1.000 secs) All Correct (got 4/4 points)
+Case #009 [medium(seed=916958)]: AC (0.010/1.000 secs) All Correct (got 4/4 points)
+
+Subtask 4 (3 testcases):
+Case #010 [big(seed=843402)]: AC (0.009/1.000 secs) All Correct (got 4/4 points)
+Case #011 [big(seed=516420)]: AC (0.011/1.000 secs) All Correct (got 4/4 points)
+Case #012 [big(seed=203868)]: AC (0.014/1.000 secs) All Correct (got 4/4 points)
+
+Subtask 5 (3 testcases):
+Case #013 [large(seed=781937)]: AC (0.035/1.000 secs) All Correct (got 4/4 points)
+Case #014 [large(seed=718590)]: AC (0.271/1.000 secs) All Correct (got 4/4 points)
+Case #015 [large(seed=803179)]: AC (0.028/1.000 secs) All Correct (got 4/4 points)
+
+Subtask 6 (1 testcases):
+Case #016 [all_equal(seed=297705)]: AC (0.036/1.000 secs) All Correct (got 4/4 points)
+
+Subtask 7 (3 testcases):
+Case #017 [extra_large(seed=112299)]: TLE (1.360/1.000 secs) time limit exceeded  (otherwise would have got 4/4 points)
+Case #018 [extra_large(seed=810268)]: TLE (1.402/1.000 secs) time limit exceeded  (otherwise would have got 4/4 points)
+Case #019 [extra_large(seed=860234)]: TLE (1.296/1.000 secs) time limit exceeded  (otherwise would have got 4/4 points)
+
+
+Score: 52/64 points

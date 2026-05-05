@@ -1,0 +1,199 @@
+global_seed: 686640
+Subtasks:
+- 1:
+    subtask name: esempi_testo
+    time limit: 1
+    scoring type: &id001
+    - boolean
+    - boolean
+    - boolean
+    - boolean
+    num testcases: 3
+    testcases:
+    - testcase num 1:
+        origin: hardcoded
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.11786222457885742
+    - testcase num 2:
+        origin: hardcoded
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.022841215133666992
+    - testcase num 3:
+        origin: hardcoded
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.016932010650634766
+- 2:
+    subtask name: small
+    time limit: 1
+    scoring type: *id001
+    num testcases: 3
+    testcases:
+    - testcase num 4:
+        origin: randomly generated
+        instance_seed: 428938
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.008946895599365234
+    - testcase num 5:
+        origin: randomly generated
+        instance_seed: 862540
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.008894205093383789
+    - testcase num 6:
+        origin: randomly generated
+        instance_seed: 536604
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.004373311996459961
+- 3:
+    subtask name: medium
+    time limit: 1
+    scoring type: *id001
+    num testcases: 3
+    testcases:
+    - testcase num 7:
+        origin: randomly generated
+        instance_seed: 417952
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.006578922271728516
+    - testcase num 8:
+        origin: randomly generated
+        instance_seed: 844432
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.002716541290283203
+    - testcase num 9:
+        origin: randomly generated
+        instance_seed: 916958
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.009996891021728516
+- 4:
+    subtask name: big
+    time limit: 1
+    scoring type: *id001
+    num testcases: 3
+    testcases:
+    - testcase num 10:
+        origin: randomly generated
+        instance_seed: 843402
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.008843183517456055
+    - testcase num 11:
+        origin: randomly generated
+        instance_seed: 516420
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.010835886001586914
+    - testcase num 12:
+        origin: randomly generated
+        instance_seed: 203868
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.013844966888427734
+- 5:
+    subtask name: large
+    time limit: 1
+    scoring type: *id001
+    num testcases: 3
+    testcases:
+    - testcase num 13:
+        origin: randomly generated
+        instance_seed: 781937
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.034620046615600586
+    - testcase num 14:
+        origin: randomly generated
+        instance_seed: 718590
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.27097272872924805
+    - testcase num 15:
+        origin: randomly generated
+        instance_seed: 803179
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.027802228927612305
+- 6:
+    subtask name: all_equal
+    time limit: 1
+    scoring type: *id001
+    num testcases: 1
+    testcases:
+    - testcase num 16:
+        origin: randomly generated
+        instance_seed: 297705
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 0.03640866279602051
+- 7:
+    subtask name: extra_large
+    time limit: 1
+    scoring type: *id001
+    num testcases: 3
+    testcases:
+    - testcase num 17:
+        origin: randomly generated
+        instance_seed: 112299
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 1.36018705368042
+    - testcase num 18:
+        origin: randomly generated
+        instance_seed: 810268
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 1.4024467468261719
+    - testcase num 19:
+        origin: randomly generated
+        instance_seed: 860234
+        goal count_feas_sols (count feasible solutions): achieved
+        goal optval (compute optimal value): achieved
+        goal optsol (compute an optimal solution): achieved
+        goal count_opt_sols (count optimal solutions): achieved
+        delay: 1.29632568359375
+total_got_points: 52
+total_max_points: 64

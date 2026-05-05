@@ -1,0 +1,2 @@
+numpy
+# gurobipy  # Uncomment if you have a Gurobi license (needed for LP/ILP problems)

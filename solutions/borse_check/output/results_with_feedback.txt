@@ -1,0 +1,179 @@
+
+Subtask 1 (3 testcases):
+Case #001 [esempi_testo - hardcoded]: AC (0.102/1.000 secs) All Correct (got 0/0 points)
+Case #002 [esempi_testo - hardcoded]: AC (0.096/1.000 secs) All Correct (got 0/0 points)
+Case #003 [esempi_testo - hardcoded]: AC (0.111/1.000 secs) All Correct (got 0/0 points)
+
+Subtask 2 (10 testcases):
+Case #004 [small(seed=867573)]: PAC (0.105/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=14 while the correct value was corr_rank=15. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #005 [small(seed=635105)]: PAC (0.097/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=30 while the correct value was corr_rank=38. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #006 [small(seed=942931)]: PAC (0.112/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=16 while the correct value was corr_rank=25. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #007 [small(seed=278139)]: PAC (0.098/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=10 while the correct value was corr_rank=23. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #008 [small(seed=830774)]: AC (0.100/1.000 secs) All Correct (got 3/3 points)
+Case #009 [small(seed=417456)]: PAC (0.095/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=10 while the correct value was corr_rank=23. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #010 [small(seed=904024)]: AC (0.102/1.000 secs) All Correct (got 3/3 points)
+Case #011 [small(seed=672109)]: AC (0.096/1.000 secs) All Correct (got 3/3 points)
+Case #012 [small(seed=117419)]: PAC (0.119/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=18 while the correct value was corr_rank=27. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #013 [small(seed=939742)]: PAC (0.100/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=12 while the correct value was corr_rank=14. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+
+Subtask 3 (10 testcases):
+Case #014 [medium(seed=653457)]: PAC (0.096/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=693 while the correct value was corr_rank=847. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #015 [medium(seed=631455)]: PAC (0.437/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=1361515 while the correct value was corr_rank=1461135. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #016 [medium(seed=881275)]: PAC (0.091/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=108644 while the correct value was corr_rank=118786. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #017 [medium(seed=282790)]: PAC (0.116/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=814719 while the correct value was corr_rank=939781. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #018 [medium(seed=630259)]: PAC (0.141/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=3700 while the correct value was corr_rank=10310. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #019 [medium(seed=754435)]: PAC (0.186/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=16802849 while the correct value was corr_rank=22392772. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #020 [medium(seed=363196)]: PAC (0.050/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=30408 while the correct value was corr_rank=39929. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #021 [medium(seed=657701)]: PAC (0.072/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=2958986 while the correct value was corr_rank=3681942. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #022 [medium(seed=469478)]: PAC (0.145/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=21910556 while the correct value was corr_rank=22533382. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #023 [medium(seed=447162)]: PAC (0.074/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=3099517 while the correct value was corr_rank=3114819. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+
+Subtask 4 (10 testcases):
+Case #024 [big(seed=287876)]: PAC (0.115/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=156108232 while the correct value was corr_rank=158211702. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #025 [big(seed=783838)]: PAC (0.059/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=62043693 while the correct value was corr_rank=62059493. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #026 [big(seed=330138)]: PAC (0.050/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=112188175 while the correct value was corr_rank=114243606. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #027 [big(seed=261294)]: PAC (0.051/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=485601059 while the correct value was corr_rank=486388474. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #028 [big(seed=856881)]: PAC (0.052/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=36026409 while the correct value was corr_rank=36050465. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #029 [big(seed=909516)]: PAC (0.172/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=90903946 while the correct value was corr_rank=92566639. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #030 [big(seed=716384)]: PAC (0.061/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=381349930 while the correct value was corr_rank=382964320. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #031 [big(seed=267326)]: PAC (0.091/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=225760502 while the correct value was corr_rank=226749502. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #032 [big(seed=253181)]: PAC (0.092/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=120382786 while the correct value was corr_rank=122986101. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+Case #033 [big(seed=802341)]: PAC (0.096/1.000 secs) Partially Correct (2/3 points)
+Some feedback is in order:
+ - rank: 0/1 points. Feedback: Wrong value for the rank of the assignment A received in input: you answered risp_rank=98151867 while the correct value was corr_rank=98301505. Through rtal you can dowload the files with the correct answers and those with the corresponding instances. Be told of the command:
+   `rtal connect <problem_name> synopsis`
+ which reveals and explains all available services and arguments for a given problem. Read the two text files `README_rtal.md` and `README_synopsis.md`
+
+
+
+Score: 63/90 points
